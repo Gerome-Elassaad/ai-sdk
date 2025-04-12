@@ -1,9 +1,9 @@
-<a href="https://ai-sdk-starter-deepinfra.vercel.app">
-  <h1 align="center">Vercel x DeepInfra Chatbot</h1>
+<a href="https://ai-sdk-starter-DeeRankAI.vercel.app">
+  <h1 align="center">Vercel x DeeRankAI Chatbot</h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app template built with Next.js, the AI SDK by Vercel, and DeepInfra.
+  An open-source AI chatbot app template built with Next.js, the AI SDK by Vercel, and DeeRankAI.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 You can deploy your own version to Vercel by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=Vercel+x+DeepInfra+Chatbot&repository-name=ai-sdk-starter-deepinfra&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fai-sdk-starter-deepinfra&demo-title=Vercel+x+Deepinfra+Chatbot&demo-url=https%3A%2F%2Fai-sdk-starter-deepinfra.vercel.app%2F&demo-description=A+simple+chatbot+application+built+with+Next.js+that+uses+DeepInfra+via+the+AI+SDK+and+the+Vercel+Marketplace&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22deepinfra%22%2C%22productSlug%22%3A%22api-token%22%2C%22protocol%22%3A%22ai%22%7D%5D)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=Vercel+x+deepinfra+Chatbot&repository-name=ai-sdk-starter-DeeRankAI&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fai-sdk-starter-DeeRankAI&demo-title=Vercel+x+DeeRankAI+Chatbot&demo-url=https%3A%2F%2Fai-sdk-starter-DeeRankAI.vercel.app%2F&demo-description=A+simple+chatbot+application+built+with+Next.js+that+uses+DeeRankAI+via+the+AI+SDK+and+the+Vercel+Marketplace&products=%5B%7B%22type%22%3A%22integration%22%2C%22integrationSlug%22%3A%22DeeRankAI%22%2C%22productSlug%22%3A%22api-token%22%2C%22protocol%22%3A%22ai%22%7D%5D)
 
 ## Running Locally
 
@@ -78,6 +78,6 @@ You can deploy your own version to Vercel by clicking the button below:
 
 ## Authors
 
-This repository is maintained by the [Vercel](https://vercel.com) team and community contributors.
+This repository is maintained by the [DeepRankAI](https://deeprankai.com) & [Gerome Elassaad](https://github.com/Gerome-Elassaad) team and community contributors.
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
